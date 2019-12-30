@@ -14,6 +14,6 @@ This repository represents a small react native compass app.
 - Change location on the emulator to see compass rotating 
 - The test is also possible on the real device
 
-## Demo video
+## Demo GIF
 
-![Compass](https://drive.google.com/open?id=1zR2obhhDhQLGPRjIccEp19ZyJO4mUHHE)
+![Simple Compass App](https://i.imgur.com/jJaXf3x.gif)
