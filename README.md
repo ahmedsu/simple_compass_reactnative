@@ -16,4 +16,4 @@ This repository represents a small react native compass app.
 
 ## Demo video
 
-![Compass App Video](https://drive.google.com/open?id=1zR2obhhDhQLGPRjIccEp19ZyJO4mUHHE)
+![Compass](https://drive.google.com/open?id=1zR2obhhDhQLGPRjIccEp19ZyJO4mUHHE)
